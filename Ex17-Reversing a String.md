@@ -1,5 +1,5 @@
 # Ex17 Reversing a String Using Stack Data Structure
-## DATE: 28-10-2025
+## DATE: 30-09-2025
 ## AIM:
 To write a Java program that reverses an input string using a stack, without using built-in reverse functions.
 
@@ -16,8 +16,8 @@ To write a Java program that reverses an input string using a stack, without usi
 ```java
 /*
 Program to reverses an input string using a stack
-Developed by: Nalini P
-Register Number: 212223220063
+Developed by: ROGITH GANESH.R
+Register Number: 212223100046
 */
 
 import java.util.Scanner;
